@@ -2,6 +2,8 @@
 
 Prince O Prince is the name, Front End Development is the game, Android Development is the aim and UI design, well that's just the flair.
 
+I love figuring out the solutions to problems using whatever tools are at my disposal. Most times I get it right, sometimes I don't and other times, I simply give it a rest but there is always an uneasiness whenever I'm unable to figure something out. 
+
 <!--
 **princeOprince/princeOprince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
